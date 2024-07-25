@@ -1,25 +1,16 @@
 # ZyBooks Automator
-## Extension by Prath: https://chromewebstore.google.com/detail/zybooks-auto/bjkbhcempihbcacfghfmcmabfhehoiao
+## Based on the Extension by Prath: https://chromewebstore.google.com/detail/zybooks-auto/bjkbhcempihbcacfghfmcmabfhehoiao
 ## Original Description:
 Simple Chrome Extension to complete ZyBooks participation assignments.
+
+## This code is originally not mine, most of the credit belongs to Prath, I only added the drag & drop feature as well as various bug fixes/code clean up.
 
 Working Modules:
 * Animations
 * Multiple choice
-* Short answer **NEW!**
-
-Not Working:
-* Drag and drop modules
-
-
-## Added Features by Dalestev 7/25/24:
-Added Drag & Drop Functionality
-Various bug fixes
-
-## Old Fix:
-Short Answers would break when it came to characters that HTML writes out weirdly.
-This has been fixed AFAIK. Any issues I may or may not fix, who knows :D
+* Short answer
+* Drag & Drop **NEW**
 
 ## Installation:
 Set Chrome to Developer Mode then Select "Load Unpacked"
-Select the folder and it gets loaded in! :O
+Select the folder and it gets loaded in!
